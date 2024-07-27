@@ -21,3 +21,5 @@
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [TreeAmazon]([https://github.com/alperenkucuktag/TreeAmazonApp/blob/main/amazonnn.gif])<h3>[Repo](https://github.com/alperenkucuktag/TreeAmazonApp)</h3> | CLI |  ![Animation](https://github.com/alperenkucuktag/TreeAmazonApp/blob/main/amazonnn.gif)
+[GetirClone]([https://github.com/alperenkucuktag/getirApp/blob/main/getirGif.gif])<h3>[Repo](https://github.com/alperenkucuktag/getirApp/tree/main)</h3> | CLI,Redux |  ![Animation](https://github.com/alperenkucuktag/getirApp/blob/main/getirGif.gif)
+
