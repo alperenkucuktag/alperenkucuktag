@@ -20,5 +20,4 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[TreeAmazonApp]([amazonnn.gif](https://github.com/alperenkucuktag/TreeAmazonApp/blob/main/amazonnn.gif))<h3>[Repo]([https://github.com/Ilknurtuncer/iphone-calculator](https://github.com/alperenkucuktag/TreeAmazonApp))</h3> | CLI |  ![Animation]
-
+[TreeAmazon]([https://github.com/alperenkucuktag/TreeAmazonApp/blob/main/amazonnn.gif])<h3>[Repo](https://github.com/alperenkucuktag/TreeAmazonApp)</h3> | CLI |  ![Animation](https://github.com/alperenkucuktag/TreeAmazonApp/blob/main/amazonnn.gif)
