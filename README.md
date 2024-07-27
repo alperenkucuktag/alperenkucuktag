@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 👨‍🎓 Soft Skılls
+### 🎸 Soft Skılls
 - 📅 **Age:** 27
 - 🏀 **Hobbies:** Basketball, Latin dancing, playing guitar, cycling, swimming
 - 🌱 **Personal Traits::** Open to development, determined, able to calmly assess and solve problems, open to communication, enjoys collaboration
