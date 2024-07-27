@@ -9,7 +9,7 @@
 
 &emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kemalalperenkucuktag@gmail.com)](mailto:kemalalperenkucuktag@gmail.com)&emsp;[![LinkedIn - IAlperen Kucuktag](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/alperen-küçüktağ)&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kemalalperenkucuktag@gmail.com)](mailto:kemalalperenkucuktag@gmail.com)&emsp;[![LinkedIn - Alperen Kucuktag](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/alperen-küçüktağ)&emsp;
 
 
 
