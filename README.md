@@ -43,8 +43,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="20" />  Soft Skılls
- <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="20" /> **Age:** 27
- 🏀 **Hobbies:** Basketball, Latin dancing, playing guitar, cycling, swimming
+- <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="20" /> **Age:** 27
+- 🏀 **Hobbies:** Basketball, Latin dancing, playing guitar, cycling, swimming
  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" /> **Personal Traits::** Open to development, determined, able to calmly assess and solve problems, open to communication, enjoys collaboration
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
