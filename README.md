@@ -1,4 +1,4 @@
-# 💫 Hakkımda:
+# 💫 About Me:
 ![Typing Animation Displays My Roles](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=14FF26&center=true&vCenter=true&width=600&lines=Hello,+I'm+ALPEREN.;Welcome+to+my+Github+profile.;I'm+a+Software+Developer...)
 
 <br>
@@ -11,8 +11,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kemalalperenkucuktag@gmail.com)](mailto:kemalalperenkucuktag@gmail.com)
 
-## 📖 Hakkımda
-### 👨‍🎓 Kişisel Bilgiler
+
+### 👨‍🎓 Soft Skıls
 - 📅 **Yaş:** 27
 - 🏀 **Hobiler:** Basketbol, Latin dansı, gitar çalma, bisiklete binme, yüzme
 - 🌱 **Kişisel Özellikler:** Gelişime açık, kararlı, sorunları sakin bir şekilde değerlendirebilen ve çözebilen, iletişime açık, işbirliğini seven
