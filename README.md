@@ -67,3 +67,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [GetirClone]([https://github.com/alperenkucuktag/getirApp/blob/main/getirGif.gif])<h3>[Repo](https://github.com/alperenkucuktag/getirApp/tree/main)</h3> | Expo,Redux |  ![Animation](https://github.com/alperenkucuktag/getirApp/blob/main/getirGif.gif)
 [AbsolutelyInstagram]([https://github.com/alperenkucuktag/Absolutely--nstagram/blob/main/gifmobile.gif])<h3>[Repo](https://github.com/alperenkucuktag/Absolutely--nstagram)</h3> | CLI |  ![Animation](https://github.com/alperenkucuktag/Absolutely--nstagram/blob/main/gifmobile.gif)
 
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.your-repository)
+
+
