@@ -19,14 +19,11 @@
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/javascript_aladdinGene.gif" width="60" alt="javascript" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/ts_aladdinGene.gif" width="60" alt="typescript" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="60" alt="jquery" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/react_aladdinGene.gif" width="60" alt="react" /> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="60" alt="redux" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bootstrap_aladdinGene.png" width="60" alt="bootstrap" /> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="60" alt="sass" />
     <img src="https://styled-components.com/logo.png" width="60" alt="styledcomponent" /
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60" alt="python" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/django_aladdinGene.png" width="60" alt="django" /> 
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/firebase_aladdinGene.webp" width="60" alt="firebase" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" alt="figma" />
