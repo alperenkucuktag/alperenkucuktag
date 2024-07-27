@@ -18,4 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alperenkucuktag&icon=3&color=0)](https://visitcount.itsvg.in)
 
+Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+[TreeAmazonApp]([amazonnn.gif](https://github.com/alperenkucuktag/TreeAmazonApp/blob/main/amazonnn.gif))<h3>[Repo]([https://github.com/Ilknurtuncer/iphone-calculator](https://github.com/alperenkucuktag/TreeAmazonApp))</h3> | CLI |  ![Animation]
 
