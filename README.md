@@ -53,7 +53,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub İstatistiklerim:
+# 📊 GitHub Status:
 <img src="https://github-readme-stats.vercel.app/api?username=alperenkucuktag&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" height="300" alt="Alperen Küçüktağ GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alperenkucuktag&theme=dark&hide_border=true" width="100%" height="300" alt="Alperen Küçüktağ GitHub Streak Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenkucuktag&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" height="300" alt="Alperen Küçüktağ Top Languages" />
