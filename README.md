@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋  ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+ALPEREN;Welcome+to+my+Github+profile;I'm+a+Software+Developer...;)<br>
+👋  ![Typing Animation Displays My Roles](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=500&color=14FF26&center=true&vCenter=true&width=600&lines=Hello,+I'm+ALPEREN.;Welcome+to+my+Github+profile.;I'm+a+Software+Developer...)
+<br>
 
 <div align="center" style="border-radius: 20px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="80%" height="300" style="border-radius: 20px;"/>
