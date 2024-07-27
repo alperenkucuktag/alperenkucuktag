@@ -9,7 +9,8 @@
 
 &emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kemalalperenkucuktag@gmail.com)](mailto:kemalalperenkucuktag@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kemalalperenkucuktag@gmail.com)](mailto:kemalalperenkucuktag@gmail.com)&emsp;[![LinkedIn - IAlperen Kucuktag](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ilknur-d-ab857b22b/](https://www.linkedin.com/in/alperen-k%C3%BC%C3%A7%C3%BCkta%C4%9F/))&emsp;
+
 
 
 ### 👨‍🎓 Soft Skılls
