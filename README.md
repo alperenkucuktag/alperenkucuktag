@@ -16,7 +16,6 @@
 <h2 align="center">:rocket:Technical Skills</h2>
 <div>
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/Animation - 1722095659660.gif" width="60" alt="html" />
-    <img src="https://iconscout.com/lottie-animation/tailwind-css-10875169" width="60" alt="html" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/javascript_aladdinGene.gif" width="60" alt="javascript" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/ts_aladdinGene.gif" width="60" alt="typescript" />
