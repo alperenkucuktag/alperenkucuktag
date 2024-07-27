@@ -4,7 +4,7 @@
 <br>
 
 <div align="center" style="border-radius: 20px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="80%" height="300" style="border-radius: 20px;"/>
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="100%" height="300" style="border-radius: 20px;"/>
 </div></br>
 
 &emsp;&emsp;&emsp;
