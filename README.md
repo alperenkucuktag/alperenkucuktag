@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋  ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+ALPEREN;Welcome+to+my+Github+profile;I'm+a+Software+Developer...;)<br><br>Skills<br>HTML5<br>CSS<br>JavaScript<br>React.js<br>SASS<br>GitHub<br>HTML<br>Bootstrap<br>TypeScript<br>Tailwind.css<br>Trello<br>Jenkins<br>AWS<br>Firebase<br>Jira<br>MVC<br>Next.js<br>Express.js<br>React Native<br>CLI<br>Expo<br>MongoDB<br>About Me<br>📅 Age: 27<br>🏀 Hobbies: Basketball, Latin dancing, playing guitar, cycling, swimming<br>🌱 Personal Qualities: Open to development, determined, able to calmly evaluate and solve problems, open to communication, enjoys collaboration<br>
+👋  ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+ALPEREN;Welcome+to+my+Github+profile;I'm+a+Software+Developer...;)<br>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%" height="300"></br>
+&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kemalalperenkucuktag@gmail.com) &emsp;
+
+
+
+<br>Skills<br>HTML5<br>CSS<br>JavaScript<br>React.js<br>SASS<br>GitHub<br>HTML<br>Bootstrap<br>TypeScript<br>Tailwind.css<br>Trello<br>Jenkins<br>AWS<br>Firebase<br>Jira<br>MVC<br>Next.js<br>Express.js<br>React Native<br>CLI<br>Expo<br>MongoDB<br>About Me<br>📅 Age: 27<br>🏀 Hobbies: Basketball, Latin dancing, playing guitar, cycling, swimming<br>🌱 Personal Qualities: Open to development, determined, able to calmly evaluate and solve problems, open to communication, enjoys collaboration<br>
 
 
 ## 🌐 Socials:
