@@ -1,9 +1,14 @@
 # 💫 About Me:
 👋  ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+ALPEREN;Welcome+to+my+Github+profile;I'm+a+Software+Developer...;)<br>
 
-<img src="https://i.redd.it/n8agw6z2smyb1.gif" width="100%" height="300"></br>
+<div align="center" style="border-radius: 20px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="80%" height="300" style="border-radius: 20px;"/>
+</div></br>
+
 &emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kemalalperenkucuktag@gmail.com) &emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kemalalperenkucuktag@gmail.com)](mailto:kemalalperenkucuktag@gmail.com)
+
 
 
 
