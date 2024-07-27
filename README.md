@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kemalalperenkucuktag@gmail.com)](mailto:kemalalperenkucuktag@gmail.com)
 
 
-### 👨‍🎓 Soft Skıls
+### 👨‍🎓 Soft Skılls
 - 📅 **Yaş:** 27
 - 🏀 **Hobiler:** Basketbol, Latin dansı, gitar çalma, bisiklete binme, yüzme
 - 🌱 **Kişisel Özellikler:** Gelişime açık, kararlı, sorunları sakin bir şekilde değerlendirebilen ve çözebilen, iletişime açık, işbirliğini seven
