@@ -68,6 +68,6 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [AbsolutelyInstagram]([https://github.com/alperenkucuktag/Absolutely--nstagram/blob/main/gifmobile.gif])<h3>[Repo](https://github.com/alperenkucuktag/Absolutely--nstagram)</h3> | CLI |  ![Animation](https://github.com/alperenkucuktag/Absolutely--nstagram/blob/main/gifmobile.gif)
 
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=alperenkucuktag.your-repository)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=alperenkucuktag.https://github.com/alperenkucuktag?tab=repositories)
 
 
