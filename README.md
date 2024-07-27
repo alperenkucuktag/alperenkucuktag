@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋  ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+ALPEREN;Welcome+to+my+Github+profile;I'm+a+Software+Developer...;)<br>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%" height="300"></br>
+<img src="" width="90%" height="300"></br>
 &emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kemalalperenkucuktag@gmail.com) &emsp;
 
