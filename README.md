@@ -23,6 +23,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 # 💻 Technologies:
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -54,12 +55,12 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 # 📊 GitHub Status:
 <img src="https://github-readme-stats.vercel.app/api?username=alperenkucuktag&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" height="300" alt="Alperen Küçüktağ GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alperenkucuktag&theme=dark&hide_border=true" width="100%" height="300" alt="Alperen Küçüktağ GitHub Streak Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenkucuktag&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" height="300" alt="Alperen Küçüktağ Top Languages" />
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [TreeAmazon]([https://github.com/alperenkucuktag/TreeAmazonApp/blob/main/amazonnn.gif])<h3>[Repo](https://github.com/alperenkucuktag/TreeAmazonApp)</h3> | CLI |  ![Animation](https://github.com/alperenkucuktag/TreeAmazonApp/blob/main/amazonnn.gif)
