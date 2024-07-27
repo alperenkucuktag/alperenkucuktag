@@ -17,8 +17,6 @@
 - 📅 **Age:** 27
 - 🏀 **Hobbies:** Basketball, Latin dancing, playing guitar, cycling, swimming
 - 🌱 **Personal Traits::** Open to development, determined, able to calmly assess and solve problems, open to communication, enjoys collaboration
-## 🌐 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alperen-küçüktağ) 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
