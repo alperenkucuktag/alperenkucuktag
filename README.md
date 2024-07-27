@@ -58,11 +58,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alperenkucuktag&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenkucuktag&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 En Çok Katkıda Bulunduğum Repo
-![](https://github-contributor-stats.vercel.app/api?username=alperenkucuktag&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=alperenkucuktag&icon=3&color=0)](https://visitcount.itsvg.in)
+Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+[TreeAmazon]([https://github.com/alperenkucuktag/TreeAmazonApp/blob/main/amazonnn.gif])<h3>[Repo](https://github.com/alperenkucuktag/TreeAmazonApp)</h3> | CLI |  ![Animation](https://github.com/alperenkucuktag/TreeAmazonApp/blob/main/amazonnn.gif)
+[GetirClone]([https://github.com/alperenkucuktag/getirApp/blob/main/getirGif.gif])<h3>[Repo](https://github.com/alperenkucuktag/getirApp/tree/main)</h3> | Expo,Redux |  ![Animation](https://github.com/alperenkucuktag/getirApp/blob/main/getirGif.gif)
+[AbsolutelyInstagram]([https://github.com/alperenkucuktag/Absolutely--nstagram/blob/main/gifmobile.gif])<h3>[Repo](https://github.com/alperenkucuktag/Absolutely--nstagram)</h3> | CLI |  ![Animation](https://github.com/alperenkucuktag/Absolutely--nstagram/blob/main/gifmobile.gif)
 
 ## Proje Tanıtımı       | Kullandığım Kütüphaneler ve Teknolojiler     | Proje Önizleme   
 :-------------------------|-------------------------|-------------------------
