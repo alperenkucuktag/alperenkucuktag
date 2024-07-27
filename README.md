@@ -14,10 +14,9 @@
 
 
 ### 👨‍🎓 Soft Skılls
-- 📅 **Yaş:** 27
-- 🏀 **Hobiler:** Basketbol, Latin dansı, gitar çalma, bisiklete binme, yüzme
-- 🌱 **Kişisel Özellikler:** Gelişime açık, kararlı, sorunları sakin bir şekilde değerlendirebilen ve çözebilen, iletişime açık, işbirliğini seven
-
+- 📅 **Age:** 27
+- 🏀 **Hobbies:** Basketball, Latin dancing, playing guitar, cycling, swimming
+- 🌱 **Personal Traits::** Open to development, determined, able to calmly assess and solve problems, open to communication, enjoys collaboration
 ## 🌐 Sosyal Medya:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alperen-küçüktağ) 
 
