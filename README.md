@@ -45,6 +45,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="100" alt="redux" />
 <img src="https://github.com/expo/logos/blob/main/png/logo-type-b-light.png" width="100" alt="redux" />
 <img src="https://github.com/devops-workflow/jenkins-icons/blob/master/icons/_SVG_Sources/jenkins.svg" width="300" alt="redux" />
+<img src="https://github.com/devops-workflow/jenkins-icons/blob/master/icons/_SVG_Sources/jira-logo.svg" width="100" alt="redux" />
 
 
 
