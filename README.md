@@ -15,7 +15,7 @@
 
 
 
-<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;Technical Skills</h2>
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">Technical Skills</h2>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
