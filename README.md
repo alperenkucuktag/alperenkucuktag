@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;
+
 
 <div align="center" style="border-radius: 20px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="100%" height="300" style="border-radius: 20px;"/>
@@ -15,7 +15,7 @@
 
 
 
-<h2 align="center">:rocket:Technical Skills</h2>
+<h2 align="center">:<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;:Technical Skills</h2>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
