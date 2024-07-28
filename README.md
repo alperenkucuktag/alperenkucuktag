@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=alperenkucuktag&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Typing Animation Displays My Roles](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=14FF26&center=true&vCenter=true&width=600&lines=Hello,+I'm+Alperen.;Welcome+to+my+Github+profile.;I'm+a+Software+Developer...)
 
 <br>
@@ -108,7 +109,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [AbsolutelyInstagram]([https://github.com/alperenkucuktag/Absolutely--nstagram/blob/main/gifmobile.gif])<h3>[Repo](https://github.com/alperenkucuktag/Absolutely--nstagram)</h3> | CLI |  ![Animation](https://github.com/alperenkucuktag/Absolutely--nstagram/blob/main/gifmobile.gif)
 
 
-[![](https://visitcount.itsvg.in/api?id=alperenkucuktag&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
  
