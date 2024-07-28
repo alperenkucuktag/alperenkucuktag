@@ -40,8 +40,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" alt="figma" />
     <img src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=578" width="200" alt="jira" />
-
  <img src="https://github.com/jcamp-code/tailwindcss-plugin-icons/blob/main/.github/tailwindcss-mark.svg" alt="Tailwind CSS" width="108" >
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="60" alt="redux" />
 </div>
 
 
