@@ -45,7 +45,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="100" alt="figma" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="100" alt="sass" />
 <img src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=578" width="400" alt="jira" />
-<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mysql.svg" alt="mysql"  width="100"></img>
+<img src="https://github.com/user-attachments/assets/e6b5d02b-8ed5-43eb-ab6b-3153f02da387" alt="mysql"  width="100"></img>
 <img src="https://github.com/jcamp-code/tailwindcss-plugin-icons/blob/main/.github/tailwindcss-mark.svg" alt="Tailwind CSS" width="100" >
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="100" alt="redux" />
 <img src="https://github.com/user-attachments/assets/16b88117-0589-4297-9ae7-06dd50214de6" width="100" alt="redux" />
