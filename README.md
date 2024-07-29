@@ -52,7 +52,7 @@
 <img src="https://github.com/expo/logos/blob/main/png/logo-type-b-light.png" width="100" alt="redux" />
 <img src="https://github.com/devops-workflow/jenkins-icons/blob/master/icons/_SVG_Sources/jenkins.svg" width="350" alt="redux" />
 
-![vite](https://github.com/user-attachments/assets/9f19da06-86d5-4089-9d13-3187b07ce834)
+<img src="https://github.com/user-attachments/assets/9f19da06-86d5-4089-9d13-3187b07ce834" width="350" alt="redux" />
 
 
 </div>
