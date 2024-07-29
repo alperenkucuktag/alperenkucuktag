@@ -54,9 +54,7 @@
 <img src="https://github.com/user-attachments/assets/8413fc70-fcd3-4446-8be9-a96c0e98ea96" alt="postman" width="100"></img>
 <img src="https://github.com/expo/logos/blob/main/png/logo-type-b-light.png" width="100" alt="redux" />
 <img src="https://github.com/user-attachments/assets/1926e12e-3339-45eb-ba4e-ae02302e8f95" width="100" alt="redux" />
-
-
-
+<img src="https://github.com/user-attachments/assets/c2e919ec-65be-4e95-aba1-1928036bfbbe" width="100" alt="redux" />
 </div>
 
 
