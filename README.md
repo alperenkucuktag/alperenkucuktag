@@ -49,10 +49,12 @@
 <img src="https://github.com/jcamp-code/tailwindcss-plugin-icons/blob/main/.github/tailwindcss-mark.svg" alt="Tailwind CSS" width="100" >
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="100" alt="redux" />
 <img src="https://github.com/user-attachments/assets/16b88117-0589-4297-9ae7-06dd50214de6" width="100" alt="redux" />
+<img src="https://github.com/user-attachments/assets/8c4c645e-fad0-4273-afc4-9bc45ea6c74b" width="100" alt="redux" />
 <img src="https://github.com/user-attachments/assets/6555926a-014d-4275-97e1-47575b4637a0" width="100" alt="redux" />
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/postman.svg" alt="postman" width="100"></img>
 <img src="https://github.com/expo/logos/blob/main/png/logo-type-b-light.png" width="100" alt="redux" />
 <img src="https://github.com/devops-workflow/jenkins-icons/blob/master/icons/_SVG_Sources/jenkins.svg" width="350" alt="redux" />
+
 
 </div>
 
