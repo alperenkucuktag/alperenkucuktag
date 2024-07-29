@@ -53,7 +53,8 @@
 <img src="https://github.com/user-attachments/assets/6555926a-014d-4275-97e1-47575b4637a0" width="100" alt="redux" />
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/postman.svg" alt="postman" width="100"></img>
 <img src="https://github.com/expo/logos/blob/main/png/logo-type-b-light.png" width="100" alt="redux" />
-<img src="https://github.com/devops-workflow/jenkins-icons/blob/master/icons/_SVG_Sources/jenkins.svg" width="350" alt="redux" />
+<img src="https://github.com/user-attachments/assets/1926e12e-3339-45eb-ba4e-ae02302e8f95" width="100" alt="redux" />
+
 
 
 </div>
