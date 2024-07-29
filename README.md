@@ -49,7 +49,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="100" alt="redux" />
 <img src="https://github.com/expo/logos/blob/main/png/logo-type-b-light.png" width="100" alt="redux" />
 <img src="https://github.com/devops-workflow/jenkins-icons/blob/master/icons/_SVG_Sources/jenkins.svg" width="350" alt="redux" />
-<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mysql.svg" alt="mysql" align="right" height="45px"></img>
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mysql.svg" alt="mysql" align="center" height="45px"></img>
 
 </div>
 
