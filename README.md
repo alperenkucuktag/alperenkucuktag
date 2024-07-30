@@ -57,6 +57,7 @@
 <img src="https://github.com/user-attachments/assets/c2e919ec-65be-4e95-aba1-1928036bfbbe" width="100" alt="redux" />
 <img src="https://github.com/user-attachments/assets/165d8af2-b9bf-4047-a9ac-c3334832ebce" width="100" alt="redux" />
 <img src="https://github.com/user-attachments/assets/ef73becc-175a-4d37-8ace-28395ad6d4df" width="100" alt="redux" />
+ <img src="https://nativewind.dev/img/logo.svg" alt="nativewind" width="100">
 </div>
 
 
