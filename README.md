@@ -24,58 +24,43 @@
 
 
 
-### **Design and Prototyping Tools**
-1. **Figma**
-   - ![Figma](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg)
-   - **Usage:** UI/UX design and prototyping.
+<div align="center">
 
-2. **Sass**
-   - ![Sass](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg)
-   - **Usage:** Writing a more dynamic and powerful version of CSS.
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" pointer-events=none width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" pointer-events= none width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100"> 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+<img src="https://github.com/remojansen/logo.ts/blob/master/ts.gif" width="100" alt="sass" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="100" alt="figma" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="100" alt="sass" />
+<img src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=578" width="400" alt="jira" />
+<img src="https://github.com/user-attachments/assets/e6b5d02b-8ed5-43eb-ab6b-3153f02da387" alt="mysql"  width="100"></img>
+<img src="https://github.com/jcamp-code/tailwindcss-plugin-icons/blob/main/.github/tailwindcss-mark.svg" alt="Tailwind CSS" width="100" >
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="100" alt="redux" />
+<img src="https://github.com/user-attachments/assets/16b88117-0589-4297-9ae7-06dd50214de6" width="100" alt="redux" />
+<img src="https://github.com/user-attachments/assets/8c4c645e-fad0-4273-afc4-9bc45ea6c74b" width="100" alt="redux" />
+<img src="https://github.com/user-attachments/assets/6555926a-014d-4275-97e1-47575b4637a0" width="100" alt="redux" />
+<img src="https://github.com/user-attachments/assets/8413fc70-fcd3-4446-8be9-a96c0e98ea96" alt="postman" width="100"></img>
+<img src="https://github.com/expo/logos/blob/main/png/logo-type-b-light.png" width="100" alt="redux" />
+<img src="https://github.com/user-attachments/assets/1926e12e-3339-45eb-ba4e-ae02302e8f95" width="100" alt="redux" />
+<img src="https://github.com/user-attachments/assets/c2e919ec-65be-4e95-aba1-1928036bfbbe" width="100" alt="redux" />
+<img src="https://github.com/user-attachments/assets/165d8af2-b9bf-4047-a9ac-c3334832ebce" width="100" alt="redux" />
+<img src="https://github.com/user-attachments/assets/ef73becc-175a-4d37-8ace-28395ad6d4df" width="100" alt="redux" />
+ <img src="https://nativewind.dev/img/logo.svg" alt="nativewind" width="100">
+</div>
+ kategorilere ayır github readme 
 
-3. **Tailwind CSS**
-   - ![Tailwind CSS](https://github.com/jcamp-code/tailwindcss-plugin-icons/blob/main/.github/tailwindcss-mark.svg)
-   - **Usage:** Creating fast and customizable CSS styles using utility classes.
-
-### **Development Tools**
-1. **TypeScript**
-   - ![TypeScript](https://github.com/remojansen/logo.ts/blob/master/ts.gif)
-   - **Usage:** A superset of JavaScript that provides static type checking.
-
-2. **Expo**
-   - ![Expo](https://github.com/expo/logos/blob/main/png/logo-type-b-light.png)
-   - **Usage:** A tool and platform for developing React Native applications.
-
-3. **NativeWind**
-   - ![NativeWind](https://nativewind.dev/img/logo.svg)
-   - **Usage:** Provides a Tailwind CSS-like styling experience in React Native applications.
-
-4. **Redux**
-   - ![Redux 1](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg)
-   - ![Redux 2](https://github.com/user-attachments/assets/16b88117-0589-4297-9ae7-06dd50214de6)
-   - ![Redux 3](https://github.com/user-attachments/assets/8c4c645e-fad0-4273-afc4-9bc45ea6c74b)
-   - ![Redux 4](https://github.com/user-attachments/assets/6555926a-014d-4275-97e1-47575b4637a0)
-   - ![Redux 5](https://github.com/user-attachments/assets/8413fc70-fcd3-4446-8be9-a96c0e98ea96)
-   - **Usage:** Facilitates state management in JavaScript applications.
-
-### **Database and API Tools**
-1. **MySQL**
-   - ![MySQL](https://github.com/user-attachments/assets/e6b5d02b-8ed5-43eb-ab6b-3153f02da387)
-   - **Usage:** Open-source relational database management system.
-
-2. **Postman**
-   - ![Postman](https://github.com/user-attachments/assets/8413fc70-fcd3-4446-8be9-a96c0e98ea96)
-   - **Usage:** Testing and documenting APIs.
-
-### **Project Management Tools**
-1. **Jira**
-   - ![Jira](https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=578)
-   - **Usage:** Project management and bug tracking.
-
-### **Software Tools and Utilities**
-1. **Postman**
-   - ![Postman](https://github.com/user-attachments/assets/8413fc70-fcd3-4446-8be9-a96c0e98ea96)
-   - **Usage:** Testing and documenting APIs.
 
 
 
