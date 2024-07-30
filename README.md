@@ -59,7 +59,7 @@
 <img src="https://github.com/user-attachments/assets/ef73becc-175a-4d37-8ace-28395ad6d4df" width="100" alt="redux" />
  <img src="https://nativewind.dev/img/logo.svg" alt="nativewind" width="100">
 </div>
- kategorilere ayır github readme 
+ 
 
 
 
